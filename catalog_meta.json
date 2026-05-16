@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-numerical-reasoning/",
+    "test_type": "A",
+    "description": "Measures the ability to understand and apply numerical information in a work-related context. Candidates are required to work with data in a variety of formats including tables, graphs and charts. Suitable for graduate and professional level roles requiring strong quantitative reasoning."
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-verbal-reasoning/",
+    "test_type": "A",
+    "description": "Assesses the ability to understand written information and evaluate arguments and statements. Candidates read short passages of text and decide whether statements are true, false or cannot be determined. Suitable for roles requiring strong comprehension and critical thinking."
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-inductive-reasoning/",
+    "test_type": "A",
+    "description": "Measures the ability to draw inferences and understand relationships between concepts presented in a non-verbal, diagrammatic format. Assesses fluid intelligence and problem-solving ability, suitable for technical and professional roles."
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-deductive-reasoning/",
+    "test_type": "A",
+    "description": "Assesses the ability to draw logical conclusions from given premises and information. Evaluates systematic and rigorous thinking skills important for analytical and managerial roles."
+  },
+  {
+    "name": "Verify Mechanical Comprehension",
+    "url": "https://www.shl.com/solutions/products/verify-mechanical-comprehension/",
+    "test_type": "A",
+    "description": "Measures understanding of mechanical and physical concepts and how mechanical systems work. Suitable for roles in engineering, manufacturing, technical operations, and other industries requiring mechanical aptitude."
+  },
+  {
+    "name": "Verify Spatial Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-spatial-reasoning/",
+    "test_type": "A",
+    "description": "Assesses the ability to visualize and manipulate objects in two and three dimensions. Useful for roles requiring design, engineering, or architectural skills where spatial thinking is critical."
+  },
+  {
+    "name": "OPQ32 Occupational Personality Questionnaire",
+    "url": "https://www.shl.com/solutions/products/opq32/",
+    "test_type": "P",
+    "description": "The OPQ32 is the world's leading occupational personality questionnaire. It measures 32 personality characteristics relevant to workplace performance across three domains: Relationships with People, Thinking Styles, and Feelings and Emotions. Used for selection, development, and leadership assessment."
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/motivation-questionnaire/",
+    "test_type": "P",
+    "description": "Measures 18 dimensions of workplace motivation and what energises individuals at work. Helps understand what drives performance and engagement, covering factors such as achievement, affiliation, autonomy, power, and recognition."
+  },
+  {
+    "name": "Universal Competency Framework (UCF)",
+    "url": "https://www.shl.com/solutions/products/universal-competency-framework/",
+    "test_type": "C",
+    "description": "A comprehensive framework of 20 competencies linked to business outcomes. The UCF provides a common language for talent management and can be used to design assessments, structure interviews, and build development plans."
+  },
+  {
+    "name": "Numerical Reasoning Test (Graduate)",
+    "url": "https://www.shl.com/solutions/products/numerical-reasoning-test-graduate/",
+    "test_type": "A",
+    "description": "Designed for graduate-level candidates, this test measures the ability to analyse and interpret numerical data presented in tables and graphs. Assesses quantitative reasoning skills critical for analytical graduate roles across finance, consulting, and technology."
+  },
+  {
+    "name": "Verbal Reasoning Test (Graduate)",
+    "url": "https://www.shl.com/solutions/products/verbal-reasoning-test-graduate/",
+    "test_type": "A",
+    "description": "Designed for graduate-level candidates, this test assesses verbal comprehension, logical reasoning with written information, and critical evaluation of arguments. Suitable for graduate schemes requiring strong communication and analytical ability."
+  },
+  {
+    "name": "Inductive Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/inductive-reasoning-test/",
+    "test_type": "A",
+    "description": "Evaluates the ability to identify patterns in abstract information and derive rules from non-verbal data. Tests fluid intelligence and problem-solving capacity. Well-suited for STEM roles and technology positions."
+  },
+  {
+    "name": "Calculation Test",
+    "url": "https://www.shl.com/solutions/products/calculation-test/",
+    "test_type": "K",
+    "description": "Measures speed and accuracy in basic numerical calculations including addition, subtraction, multiplication, and division. Suitable for clerical, administrative, and data entry roles where numerical accuracy is essential."
+  },
+  {
+    "name": "Checking Test",
+    "url": "https://www.shl.com/solutions/products/checking-test/",
+    "test_type": "K",
+    "description": "Assesses attention to detail and accuracy by requiring candidates to identify errors in numerical and verbal data. Highly relevant for administrative, clerical, and data processing roles where checking and accuracy are critical."
+  },
+  {
+    "name": "Data Entry Speed and Accuracy",
+    "url": "https://www.shl.com/solutions/products/data-entry-speed-and-accuracy/",
+    "test_type": "K",
+    "description": "Measures the speed and accuracy of data entry skills, including keyboard proficiency. Suitable for roles that require frequent data input such as administrative assistants, customer service representatives, and clerical workers."
+  },
+  {
+    "name": "Customer Contact Styles Questionnaire (CCSQ)",
+    "url": "https://www.shl.com/solutions/products/customer-contact-styles-questionnaire/",
+    "test_type": "P",
+    "description": "Assesses personality and behavioral styles most relevant for customer-facing roles. Measures dimensions including empathy, persuasiveness, resilience, and composure. Designed for selection and development in contact center and service roles."
+  },
+  {
+    "name": "Work Strengths",
+    "url": "https://www.shl.com/solutions/products/work-strengths/",
+    "test_type": "P",
+    "description": "A strengths-based assessment that identifies an individual's natural talents and areas of peak performance. Aligned to SHL's competency framework and useful for development conversations, coaching, and talent identification programmes."
+  },
+  {
+    "name": "Situational Judgement Test (SJT)",
+    "url": "https://www.shl.com/solutions/products/situational-judgement-test/",
+    "test_type": "S",
+    "description": "Presents candidates with realistic work scenarios and asks them to identify the most and least effective response. Measures practical judgment, values alignment, and role-specific competencies. Widely used for volume hiring and graduate recruitment."
+  },
+  {
+    "name": "Remote Work Suitability",
+    "url": "https://www.shl.com/solutions/products/remote-work-suitability/",
+    "test_type": "P",
+    "description": "Assesses behavioral traits and work styles that predict success in remote or hybrid work environments, including self-discipline, digital communication, proactivity, and ability to work independently without direct supervision."
+  },
+  {
+    "name": "Agile Mindset Assessment",
+    "url": "https://www.shl.com/solutions/products/agile-mindset-assessment/",
+    "test_type": "P",
+    "description": "Evaluates an individual's alignment to agile values and behaviors including adaptability, collaboration, continuous improvement, and iterative thinking. Useful for technology, product, and transformation roles in agile organizations."
+  },
+  {
+    "name": "Sales Assessment",
+    "url": "https://www.shl.com/solutions/products/sales-assessment/",
+    "test_type": "P",
+    "description": "Measures key personality traits and behavioral styles predictive of success in sales roles, including drive, persuasiveness, resilience, competitiveness, and customer focus. Suitable for both field sales and inside sales hiring."
+  },
+  {
+    "name": "Graduate Shortlister",
+    "url": "https://www.shl.com/solutions/products/graduate-shortlister/",
+    "test_type": "S",
+    "description": "A blended assessment combining cognitive ability, situational judgment, and personality measures optimised for high-volume graduate recruitment. Provides a ranked shortlist of candidates with detailed competency profiles."
+  },
+  {
+    "name": "Supervisory Skills",
+    "url": "https://www.shl.com/solutions/products/supervisory-skills/",
+    "test_type": "S",
+    "description": "Assesses the judgment and practical skills needed to manage and supervise frontline teams effectively. Covers delegation, conflict resolution, performance management, and operational decision-making."
+  },
+  {
+    "name": "Managerial SJT",
+    "url": "https://www.shl.com/solutions/products/managerial-sjt/",
+    "test_type": "S",
+    "description": "Presents management scenarios requiring candidates to demonstrate leadership judgment, team management, prioritization, and business decision-making. Suitable for first-line manager and middle management selection."
+  },
+  {
+    "name": "Leadership Assessment",
+    "url": "https://www.shl.com/solutions/products/leadership-assessment/",
+    "test_type": "P",
+    "description": "Measures leadership potential, style, and effectiveness across key dimensions including strategic thinking, inspiring others, driving results, and leading change. Based on SHL's leadership model and suitable for senior hiring and succession planning."
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/solutions/products/dependability-safety-instrument/",
+    "test_type": "P",
+    "description": "Assesses personality characteristics associated with safe, dependable, and rule-compliant workplace behavior, including conscientiousness, integrity, impulse control, and risk aversion. Used in safety-critical industries including manufacturing, logistics, and utilities."
+  },
+  {
+    "name": "Technology Professional Assessment",
+    "url": "https://www.shl.com/solutions/products/technology-professional-assessment/",
+    "test_type": "B",
+    "description": "A blended assessment for technology roles covering cognitive ability (numerical and logical reasoning), personality traits relevant to tech work, and domain knowledge tests. Suitable for software developers, data analysts, IT professionals, and engineers."
+  },
+  {
+    "name": "Coding Simulation",
+    "url": "https://www.shl.com/solutions/products/coding-simulation/",
+    "test_type": "B",
+    "description": "Simulates real-world programming tasks to assess coding proficiency, problem-solving, and software engineering skills. Covers languages including Python, Java, C++, JavaScript, and SQL. Used in technical screening for developer and engineer roles."
+  },
+  {
+    "name": "SQL Skills Test",
+    "url": "https://www.shl.com/solutions/products/sql-skills-test/",
+    "test_type": "K",
+    "description": "Assesses proficiency in SQL including writing queries, joins, subqueries, aggregations, and database design concepts. Suitable for data analyst, data engineer, and backend developer hiring."
+  },
+  {
+    "name": "Java Skills Test",
+    "url": "https://www.shl.com/solutions/products/java-skills-test/",
+    "test_type": "K",
+    "description": "Tests knowledge and practical ability in Java programming including OOP principles, collections, exception handling, multithreading, and common design patterns. Used to screen software developer candidates."
+  },
+  {
+    "name": "Python Skills Test",
+    "url": "https://www.shl.com/solutions/products/python-skills-test/",
+    "test_type": "K",
+    "description": "Evaluates Python programming ability across data structures, algorithms, file handling, libraries, and Pythonic coding practices. Suitable for data scientist, backend developer, and automation engineer roles."
+  },
+  {
+    "name": "Microsoft Office Skills Test",
+    "url": "https://www.shl.com/solutions/products/microsoft-office-skills-test/",
+    "test_type": "K",
+    "description": "Assesses practical proficiency in Microsoft Office tools including Word, Excel, and PowerPoint. Covers document formatting, formula usage, spreadsheet analysis, and presentation design. Relevant for administrative and office-based roles."
+  },
+  {
+    "name": "Numerical Reasoning (Managerial)",
+    "url": "https://www.shl.com/solutions/products/numerical-reasoning-managerial/",
+    "test_type": "A",
+    "description": "A more demanding numerical reasoning test designed for managerial and senior professional candidates. Involves complex data interpretation, business scenario analysis, and multi-step quantitative reasoning."
+  },
+  {
+    "name": "Verbal Reasoning (Managerial)",
+    "url": "https://www.shl.com/solutions/products/verbal-reasoning-managerial/",
+    "test_type": "A",
+    "description": "An advanced verbal reasoning test for managerial-level candidates, requiring critical evaluation of complex written arguments and drawing logical conclusions. Appropriate for senior professional and leadership hiring."
+  },
+  {
+    "name": "Abstract Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/abstract-reasoning-test/",
+    "test_type": "A",
+    "description": "Measures the ability to process new information quickly, identify patterns, and solve novel problems using abstract, non-verbal stimuli. A strong predictor of learning potential and adaptability to new environments."
+  },
+  {
+    "name": "Critical Reasoning Business Edition (CRBE)",
+    "url": "https://www.shl.com/solutions/products/critical-reasoning-business-edition/",
+    "test_type": "A",
+    "description": "Assesses higher-order critical thinking skills including evaluating arguments, identifying assumptions, and drawing conclusions from complex business information. Designed for senior and executive-level candidates."
+  },
+  {
+    "name": "Workplace English Language Test (WELT)",
+    "url": "https://www.shl.com/solutions/products/workplace-english-language-test/",
+    "test_type": "A",
+    "description": "Evaluates English language proficiency in professional workplace contexts, covering reading comprehension, writing, grammar, and vocabulary. Suitable for multinational organisations hiring non-native English speakers for professional roles."
+  },
+  {
+    "name": "Graduate Assessment Battery",
+    "url": "https://www.shl.com/solutions/products/graduate-assessment-battery/",
+    "test_type": "B",
+    "description": "A comprehensive battery combining numerical, verbal, and inductive reasoning tests calibrated for graduate-level hiring. Provides a holistic view of cognitive ability for graduate schemes and early career programmes."
+  },
+  {
+    "name": "Professional Assessment Battery",
+    "url": "https://www.shl.com/solutions/products/professional-assessment-battery/",
+    "test_type": "B",
+    "description": "A multi-measure battery covering cognitive ability and personality for professional-level hiring. Blends verbal, numerical, and reasoning tests with the OPQ personality questionnaire for comprehensive candidate profiling."
+  },
+  {
+    "name": "Contact Centre SJT",
+    "url": "https://www.shl.com/solutions/products/contact-centre-sjt/",
+    "test_type": "S",
+    "description": "A situational judgment test designed specifically for contact centre and customer service roles. Scenarios cover call handling, complaint resolution, empathy, and meeting service standards under pressure."
+  },
+  {
+    "name": "Smart Interview Live",
+    "url": "https://www.shl.com/solutions/products/smart-interview-live/",
+    "test_type": "B",
+    "description": "A structured live video interview platform with AI-powered scoring and behavioral competency frameworks. Interviewers are guided through structured questions and a standardised scoring rubric to improve hiring consistency."
+  },
+  {
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/solutions/products/smart-interview-on-demand/",
+    "test_type": "B",
+    "description": "Asynchronous video interview solution where candidates record responses to structured questions at their own convenience. Enables high-volume screening with AI-assisted evaluation and competency scoring."
+  },
+  {
+    "name": "360 Degree Feedback",
+    "url": "https://www.shl.com/solutions/products/360-degree-feedback/",
+    "test_type": "C",
+    "description": "A multi-rater feedback tool that gathers structured input on an individual's competencies and behaviors from peers, direct reports, managers, and the individual themselves. Used for development, coaching, and succession planning."
+  },
+  {
+    "name": "Engage360",
+    "url": "https://www.shl.com/solutions/products/engage360/",
+    "test_type": "C",
+    "description": "An employee engagement and culture survey platform that measures commitment, enablement, and organisational health. Provides actionable insights for HR and leadership to improve retention and performance."
+  },
+  {
+    "name": "Occupational Interest Inventory (OII)",
+    "url": "https://www.shl.com/solutions/products/occupational-interest-inventory/",
+    "test_type": "P",
+    "description": "Measures an individual's preferences across different types of work activities and occupational domains. Helps with career guidance, internal mobility, and identifying roles that align with an individual's interests and motivations."
+  },
+  {
+    "name": "Customer Service Aptitude Test",
+    "url": "https://www.shl.com/solutions/products/customer-service-aptitude-test/",
+    "test_type": "A",
+    "description": "Assesses cognitive and interpersonal aptitude for customer service roles, including problem resolution, communication, patience, and handling difficult interactions. Suitable for volume hiring of front-line service staff."
+  },
+  {
+    "name": "Retail Sales Aptitude Test",
+    "url": "https://www.shl.com/solutions/products/retail-sales-aptitude-test/",
+    "test_type": "A",
+    "description": "Measures the aptitude and personality characteristics most predictive of retail sales performance including customer engagement, upselling ability, product knowledge retention, and goal-orientation."
+  },
+  {
+    "name": "Driver Risk Index",
+    "url": "https://www.shl.com/solutions/products/driver-risk-index/",
+    "test_type": "P",
+    "description": "Assesses attitudes, personality traits, and behavioral tendencies associated with risky driving behavior. Used to identify at-risk drivers in logistics, transport, field service, and any role requiring company vehicle use."
+  },
+  {
+    "name": "Safety Assessment",
+    "url": "https://www.shl.com/solutions/products/safety-assessment/",
+    "test_type": "P",
+    "description": "Evaluates attitudes and behavioral tendencies related to workplace safety compliance, hazard awareness, and risk management. Relevant for industries such as construction, oil and gas, manufacturing, and utilities."
+  },
+  {
+    "name": "Resilience Questionnaire",
+    "url": "https://www.shl.com/solutions/products/resilience-questionnaire/",
+    "test_type": "P",
+    "description": "Measures individual resilience across multiple dimensions including adaptability, confidence, purposefulness, social support, and problem-solving orientation. Used in development programmes and for high-stress role selection."
+  }
+]

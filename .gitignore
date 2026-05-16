@@ -2,5 +2,3 @@
 __pycache__/
 venv/
 *.pyc
-catalog.index
-catalog_meta.json
