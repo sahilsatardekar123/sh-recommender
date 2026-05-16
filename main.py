@@ -163,3 +163,15 @@ def chat(request: ChatRequest):
         ],
         end_of_conversation=result.get("end_of_conversation", False),
     )
+
+@app.get("/evaluate", summary="Run evaluation metrics")
+def evaluate(with_agent: bool = False):
+    from evaluation import run_full_evaluation
+    if not app_state.catalog:
+        raise HTTPException(status_code=503, detail="Catalog not loaded.")
+    if with_agent:
+        from agent import run_agent
+        report = run_full_evaluation(run_agent_func=run_agent, catalog=app_state.catalog)
+    else:
+        report = run_full_evaluation(catalog=app_state.catalog)
+    return report
